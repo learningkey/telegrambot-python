@@ -69,16 +69,6 @@ target/
 # Sublime Text 2
 *.sublime*
 
-# unitests files
-game.gif
-telegram.mp3
-telegram.mp4
-telegram2.mp4
-telegram.ogg
-telegram.png
-telegram.webp
-telegram.jpg
-
 # original files from merges
 *.orig
 
@@ -87,3 +77,4 @@ telegram.jpg
 
 # virtual env
 venv*
+Scripts
