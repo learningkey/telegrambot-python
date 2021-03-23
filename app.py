@@ -1,7 +1,7 @@
 from telegram import *
 from telegram.ext import *
 
-bot_token = "1170703315:AAHljVvPzXCTeUtfHK9gpYTAt8un_VNAAU0"
+bot_token = "******"
 
 bot = Bot(bot_token)
 print(bot.getMe())
